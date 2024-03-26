@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<title>życzenia świąteczne</title>
+<html lang="pl">
+    <link a="style.css">
+    <head>
+        <section id="header"></section>
+    </head>
+    <body>
+        <section id="main"></section> 
+    </body>
+    <section id="footer"></section>
+</html>
